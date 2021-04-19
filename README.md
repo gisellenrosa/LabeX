@@ -1,7 +1,7 @@
 
 ## Projeto - LabeX
 
-  [LabeX - Surge](https://hateful-partner.surge.sh)
+  [LabeX - Surge](https://hateful-partner.surge.sh)  - Login: astrodev@gmail.com -  Senha: 123456
   
  <div style={display:flex;}>
     <img src="https://user-images.githubusercontent.com/55036173/115152542-eaf55180-a047-11eb-9919-3f83672dd4f8.png"  width="600" />
